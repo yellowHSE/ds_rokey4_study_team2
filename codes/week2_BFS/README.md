@@ -7,3 +7,8 @@
 - 풀이 개요: BFS를 활용하여 최단 거리를 구하는 문제를 해결함  
 - 주요 개념: 그래프 탐색, 큐(Queue), 최단 거리  
 
+## 코드
+-홍송은: [BFS_Songeun.py](BFS_Songeun.py)
+-김사웅: 
+-장수근:
+-전효재: [BFS_Hyojae.py](BFS_Hyojae.py)
