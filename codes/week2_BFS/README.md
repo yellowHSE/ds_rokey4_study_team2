@@ -13,5 +13,5 @@
 |--------|----------------|
 | 홍송은 | [BFS_Songeun.py](BFS_Songeun.py) |
 | 김사웅 | 
-| 장수근 | 
+| 장수근 | [BFS_Sugeun.py](BFS_Sugeun.py) |
 | 전효재 | [BFS_Hyojae.py](BFS_Hyojae.py) |
