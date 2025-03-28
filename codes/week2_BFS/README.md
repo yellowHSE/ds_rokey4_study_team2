@@ -12,6 +12,6 @@
 | 이름   | 코드 파일 링크 |
 |--------|----------------|
 | 홍송은 | [BFS_Songeun.py](BFS_Songeun.py) |
-| 김사웅 | 
+| 김사웅 | [BFS_Saungkim.py](BFS_Saungkim.py) |
 | 장수근 | [BFS_Sugeun.py](BFS_Sugeun.py) |
 | 전효재 | [BFS_Hyojae.py](BFS_Hyojae.py) |
