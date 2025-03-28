@@ -4,3 +4,6 @@
 
 ### 🏆 1. 타겟 넘버
 - 문제 링크: [프로그래머스 - 타겟 넘버](https://school.programmers.co.kr/learn/courses/30/lessons/43165)
+
+### 🏆 2. 여행 경로
+- 문제 링크: [프로그래머스 - 여행 경로](https://school.programmers.co.kr/learn/courses/30/lessons/43164)
