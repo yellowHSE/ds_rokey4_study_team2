@@ -24,4 +24,4 @@ Doosan Rokey 4기 프로그램의 일환으로, 2조 팀원들이 함께 참여�
 | 1주차 | Git/GitHub 핵심 정리와 실습 | [1주차_스터디보고서.pdf](./reports/report_week1.pdf) |
 | 2주차 | BFS(너비 우선 탐색) 알고리즘 학습 및 문제 풀이 | [2주차_스터디보고서.pdf](./reports/report_week2.pdf) | [2주차 스터디 자료](./codes/week2_BFS) |
 | 3주차 | DFS(깊이 우선 탐색) 알고리즘 학습 및 문제 풀이 | [3주차_스터디보고서.pdf](./reports/report_week3.pdf) | [3주차 스터디 자료](./codes/week3_DFS) |
-| 4주차 | 파이썬 정기평가 대비 예상 문제 작성 및 풀이 |
+| 4주차 | 파이썬 정기평가 대비 예상 문제 작성 및 풀이 | [4주차_스터디보고서.pdf](./reports/report_week4.pdf) |
