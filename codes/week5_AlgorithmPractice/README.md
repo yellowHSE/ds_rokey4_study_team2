@@ -18,7 +18,7 @@
 
 ### 🏆 3. 그래프 - 가장 먼 노드(장수근)
 - 문제 링크: [프로그래머스 - 가장 먼 노드](https://school.programmers.co.kr/learn/courses/30/lessons/49189)
-- 코드 : [Algorithm_Songeun.py](./Algorithm_Sugeun.py)
+- 코드 : [Algorithm_Sugeun.py](./Algorithm_Sugeun.py)
 
 ### 🏆 4. 격자 뒤집기 미로(김사웅)
 - 문제 링크: [프로그래머스 - 격자 뒤집기 미로](https://school.programmers.co.kr/learn/courses/30/lessons/389630)
