@@ -15,7 +15,7 @@
 
 ### 🏆 2. 이분 탐색 - 입국심사(전효재)
 - 문제 링크: [프로그래머스 - 입국심사](https://school.programmers.co.kr/learn/courses/30/lessons/43238)
-
+- 코드 : [Algorithm_Hyojae.py](./Algorithm_Hyojae.py)
 ### 🏆 3. 그래프 - 가장 먼 노드(장수근)
 - 문제 링크: [프로그래머스 - 가장 먼 노드](https://school.programmers.co.kr/learn/courses/30/lessons/49189)
 - 코드 : [Algorithm_Sugeun.py](./Algorithm_Sugeun.py)
