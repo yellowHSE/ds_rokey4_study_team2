@@ -29,4 +29,4 @@ Doosan Rokey 4기 프로그램의 일환으로, 2조 팀원들이 함께 참여�
 | 5주차 | 고난이도 알고리즘 학습 및 문제 풀이 | [5주차_스터디보고서.pdf](./reports/report_week5.pdf) | [5주차 스터디 자료](./codes/week5_AlgorithmPractice) |
 | 6주차 | MNIST 숫자 이미지 분류 실습 | [6주차_스터디보고서.pdf](./reports/report_week6.pdf) | [6주차 스터디 자료](./codes/week6_MNIST) |
 | 7주차 | Fashion MNIST 이미지 분류 실습 | [7주차_스터디보고서.pdf](./reports/report_week7.pdf) | [7주차 스터디 자료](./codes/week7_FashionMNIST) |
-| 8주차 | 컴퓨터비전 중간점검1 - 1~3주차 강의 복습|
+| 8주차 | 컴퓨터비전 중간점검1 - 1~3주차 강의 복습| [8주차_스터디보고서.pdf](./reports/report_week8.pdf) | [7주차 스터디 자료](./codes/week8_ComputerVision_1_3) |
