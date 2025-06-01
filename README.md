@@ -43,4 +43,4 @@ Doosan Rokey 4기 프로그램의 일환으로, 2조 팀원들이 함께 참여�
 | 8주차 | 컴퓨터비전 중간점검1 - 1~3주차 강의 복습| [8주차_스터디보고서.pdf](./reports/report_week8.pdf) | [8주차 스터디 자료](./codes/week8_ComputerVision_1_3) |
 | 9주차 | 컴퓨터비전 중간점검2 - 3~4주차 강의 복습| [9주차_스터디보고서.pdf](./reports/report_week9.pdf) | [9주차 스터디 자료](./codes/week9_ComputerVision_3_4) |
 | 10주차 | 컴퓨터비전 중간점검3 - 5주차 강의 복습| [10주차_스터디보고서.pdf](./reports/report_week10.pdf) | [10주차 스터디 자료](./codes/week10_ComputerVision_5) |
-| 11주차 | 컴퓨터비전 정기평가 대비 예상 문제 작성 및 풀이(개론)| 
+| 11주차 | 컴퓨터비전 정기평가 대비 예상 문제 작성 및 풀이(개론)| [11주차_스터디보고서.pdf](./reports/report_week11.pdf) |
