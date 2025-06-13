@@ -1,1 +1,3 @@
-week13_ComputerVision_Final_Review
+# 컴퓨터비전 스터디 기록 📚  
+
+## 13주차 - 컴퓨터비전 시험 리뷰 및 개념 정리
