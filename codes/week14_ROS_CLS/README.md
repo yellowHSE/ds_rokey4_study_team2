@@ -1,11 +1,19 @@
 # 컴퓨터비전 스터디 기록 📚  
 
-## 14주차 - ROS2 CLS(node, topic, service, parameter)
+## 14주차 - ROS2 CLS (Node, Topic, Service, Parameter)
 
 ### ✅ 학습 목표
 - ROS2의 기본 구성 요소(Node, Topic, Service, Parameter)에 대한 구조적 이해
 - 각 기능의 명령어 실습을 통해 실제 통신 흐름 및 설정 방식 숙지
 - rqt 도구를 활용하여 시각적으로 시스템 구성 파악
+- ROS2 Humble 공식 문서를 기반으로 기초 개념과 CLI 실습 체득  
+
+> 📚 실습 참조 자료:  
+> - [Introducing Turtlesim](https://docs.ros.org/en/humble/Tutorials/Beginner-CLI-Tools/Introducing-Turtlesim/Introducing-Turtlesim.html)  
+> - [Understanding ROS 2 Nodes](https://docs.ros.org/en/humble/Tutorials/Beginner-CLI-Tools/Understanding-ROS2-Nodes/Understanding-ROS2-Nodes.html)  
+> - [Understanding ROS 2 Topics](https://docs.ros.org/en/humble/Tutorials/Beginner-CLI-Tools/Understanding-ROS2-Topics/Understanding-ROS2-Topics.html)  
+> - [Understanding ROS 2 Services](https://docs.ros.org/en/humble/Tutorials/Beginner-CLI-Tools/Understanding-ROS2-Services/Understanding-ROS2-Services.html)  
+> - [Understanding ROS 2 Parameters](https://docs.ros.org/en/humble/Tutorials/Beginner-CLI-Tools/Understanding-ROS2-Parameters/Understanding-ROS2-Parameters.html)  
 
 ---
 
