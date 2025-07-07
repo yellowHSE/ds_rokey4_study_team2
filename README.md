@@ -49,4 +49,4 @@ Doosan Rokey 4기 프로그램의 일환으로, 2조 팀원들이 함께 참여�
 | 14주차 | ROS2 CLI tools 실습 | [14주차_스터디보고서.pdf](./reports/report_week14.pdf) | [14주차 스터디 자료](./codes/week14_ROS_CLS) |
 | 15주차 | ROS2 사용자 정의 인터페이스 및 통신 구조 실습 | [15주차_스터디보고서.pdf](./reports/report_week15.pdf) | [15주차 스터디 자료](./codes/week15_ROS_Tutorial) |
 | 16주차 | ROS2 정기평가 대비 복습 | [16주차_스터디보고서.pdf](./reports/report_week16.pdf) | [16주차 스터디 자료](./codes/week16_ROS_Review) |
-
+| 17주차 | ROS2 정기평가 예상 문제 작성 및 풀이 | [17주차_스터디보고서.pdf](./reports/report_week17.pdf) | [17주차 스터디 자료](./codes/week17_ROS_Test) |
